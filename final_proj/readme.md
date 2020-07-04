@@ -14,7 +14,6 @@
     - [检测图片](#检测图片)
     - [检测视频](#检测视频)
     - [训练](#训练)
-    - [评估](#评估)
   - [参考](#参考)
 
 ## 安装
@@ -45,10 +44,6 @@
 
 使用Jupyter Notebook打开train.ipynb，设置好数据路径、模型路径以及超参数后，即可进行训练。
 
-### 评估
-使用Jupyter Notebook打开eval.ipynb，设置好测试集路径后，运行即可生成detection-results和ground-truth。
-
-再运行mAP目录下的main.py，即可计算mAP等结果。
   
 ## 其他
 ### 黑色口罩爬虫
