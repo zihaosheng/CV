@@ -57,5 +57,5 @@
 - 部分数据集来源：
   - https://github.com/hikariming/virus-mask-dataset
   - https://www.kesci.com/home/dataset/5e958c69e7ec38002d033362
-- YOLOv4 PyTorch基于：https://github.com/bubbliiiing/yolov4-pytorch
+- YOLOv4 PyTorch基于：https://github.com/Bil369/MaskDetect-YOLOv4-PyTorch
 
