@@ -19,8 +19,8 @@
 
 ## 安装
 ### 数据集
-  -初始数据集[链接](https://pan.baidu.com/s/1v06PLSN52YYJJyzBMhWJBQ)  提取码：31f3
-  -黑色口罩数据集[链接](https://pan.baidu.com/s/1nYsKzWFENpkKPkauEQxn1Q)  提取码：9hvg
+  - 初始数据集[链接](https://pan.baidu.com/s/1v06PLSN52YYJJyzBMhWJBQ)  提取码：31f3
+  - 黑色口罩数据集[链接](https://pan.baidu.com/s/1nYsKzWFENpkKPkauEQxn1Q)  提取码：9hvg
 ### 依赖库
 - Python >= 3.7
 - PyTorch >= 1.4.0
